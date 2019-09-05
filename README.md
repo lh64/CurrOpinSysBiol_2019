@@ -7,3 +7,5 @@ The model is comprised of three cell types: tumor-propagating cells ('TPC'), Hes
 Code is also included that reproduces Figs. 2B and 2C of Harris et al. (2019) (cell counts and cell fractions vs. time, respectively). 
 
 Please direct any questions about the model to Leonard A. Harris at l.harris@vanderbilt.edu.
+
+![](img/sclc_model_dynamics.png)
